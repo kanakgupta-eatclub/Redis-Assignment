@@ -1,4 +1,4 @@
-# Redis-Based Fixed Window Rate Limiter (POC)
+# Redis-Based Fixed Window Rate Limiter 
 
 ## Objective
 Implement a Redis-backed **fixed window rate limiter** that restricts the number of requests allowed per **IP address** and **API route** within a fixed time window.
